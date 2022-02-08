@@ -7,6 +7,7 @@ theme:
     - navigation.sections
 nav:
   - 洇岚の帮助文档: index.md
+  - 快速认识洇岚: startUp.md
   - 配置直播提醒: auto.md
   # - 功能:
   #   - B站相关: intro/bilibili.md

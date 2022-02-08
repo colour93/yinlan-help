@@ -17,7 +17,8 @@
 
 ### 快速导航
 
-[配置直播提醒](/auto){ .md-button .md-button--primary }
+[快速了解](/startUp){ .md-button .md-button--primary }
+[配置直播提醒](/auto){ .md-button }
 
 ### 功能一览
 

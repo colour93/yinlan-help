@@ -2,7 +2,7 @@
 
 ## 效果图
 
-![](/imgs/configLivePush1.png)
+![](/imgs/configLivePush/1.png)
 
 ## 教程
 
@@ -23,7 +23,7 @@
 2. 发送“.绑定B站 uid uid”以确认
 3. 发送“.验证B站 uid 验证码”以验证
 
-![](/imgs/configLivePush2.png)
+![](/imgs/configLivePush/2.png)
 
 !!!tip "提示"
     如您不知道您的uid是什么，可以在 \[私聊/群聊] 中发送 ```搜up 您的用户名``` 来查询
@@ -37,7 +37,7 @@
 
 发送 ```.开启全员直播提醒```
 
-![](/imgs/configLivePush3.jpg)
+![](/imgs/configLivePush/3.jpg)
 
 ### X. 反馈
 
