@@ -1,4 +1,14 @@
 
+## 0.6.2 - 2022.2.13
+
+:material-plus-box: Apex 战绩查询
+
+:material-plus-box: 签到系统
+
+:material-update: 直播时间记录 “秒”
+
+![](/imgs/updateLog/0.6.2.png)
+
 ## 0.6.1 - 2022.2.9
 
 :material-plus-box: 小天使 表情包生成
