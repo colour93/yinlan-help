@@ -14,6 +14,8 @@ nav:
   #   - 表情包: intro/bilibili.md
   #   - 娱乐: intro/bilibili.md
   - 更新日志: updateLog.md
+  - 用户协议: userAgreement.md
+  - 隐私政策: privacy.md
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
