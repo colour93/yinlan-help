@@ -1,4 +1,18 @@
 
+## 0.7 - 2022.2.20
+
+:material-plus-box: 用户协议 及 隐私政策
+
+:material-plus-box: 吃什么 喝什么
+
+:material-plus-box: 晚安
+
+:material-plus-box: 复读
+
+:material-update: 直播推送机制
+
+![](/imgs/updateLog/0.7.png)
+
 ## 0.6.2 - 2022.2.13
 
 :material-plus-box: Apex 战绩查询
