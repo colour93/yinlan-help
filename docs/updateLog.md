@@ -1,4 +1,12 @@
 
+## 0.7.1 - 2022.3.17
+
+:material-plus-box: 直播截图
+
+:material-update: 直播推送机制
+
+![](/imgs/updateLog/0.7.1.png)
+
 ## 0.7 - 2022.2.20
 
 :material-plus-box: 用户协议 及 隐私政策
