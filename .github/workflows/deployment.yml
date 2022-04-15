@@ -21,10 +21,7 @@ jobs:
           echo "${{secrets.PRIVATE_KEY}}" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           
-      - name: Connect to Server
+      - name: Connect to Server to Build
         run: |
           ssh root@console.hk.colourfur.com -o StrictHostKeyChecking=no
-          
-      - name: Remote Build
-        run: |
           sh ~/updateYinlanHelp.sh
