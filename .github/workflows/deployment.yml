@@ -23,4 +23,4 @@ jobs:
           
       - name: Connect to Server to Build
         run: |
-          sshpass root@console.hk.colourfur.com -o StrictHostKeyChecking=no && sh ~/updateYinlanHelp.sh
+          sshpass ssh -o StrictHostKeyChecking=no root@console.hk.colourfur.com 'cd ~ && sh ~/updateYinlanHelp.sh'
