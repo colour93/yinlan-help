@@ -1,4 +1,12 @@
 
+## 0.7.2 - 2022.4.19
+
+:material-update: 直播截图机制
+
+:material-plus-box: 实时反馈
+
+![](/imgs/updateLog/0.7.2.png)
+
 ## 0.7.1 - 2022.3.17
 
 :material-plus-box: 直播截图
