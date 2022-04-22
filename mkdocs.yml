@@ -4,7 +4,6 @@ theme:
   logo: https://q1.qlogo.cn/g?b=qq&nk=2811520355&s=100
   language: zh
   features:
-    - navigation.sections
 nav:
   - 洇岚の帮助文档: index.md
   - 快速认识洇岚: startUp.md
@@ -14,8 +13,12 @@ nav:
   #   - 表情包: intro/bilibili.md
   #   - 娱乐: intro/bilibili.md
   - 更新日志: updateLog.md
-  - 用户协议: userAgreement.md
-  - 隐私政策: privacy.md
+  - 用户协议:
+    - 最新: userAgreement
+    - 2022年2月17日: userAgreement/20220217.md
+  - 隐私政策:
+    - 最新: privacy
+    - 2022年2月17日: privacy/20220217.md
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
@@ -24,3 +27,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
